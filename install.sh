@@ -7,6 +7,7 @@ script_dir="$(pwd)"
 files="
 syslog-ng/syslog-ng.conf
 smtpd/smtpd.conf
+mail/aliases
 "
 
 # https://git-scm.com/docs/git-pull#_bugs
