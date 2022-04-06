@@ -6,6 +6,7 @@ script_dir="$(pwd)"
 # list of dsts to create links to, paths should be in relative to /etc
 files="
 syslog-ng/syslog-ng.conf
+smtpd/smtpd.conf
 "
 
 # https://git-scm.com/docs/git-pull#_bugs
